@@ -1,0 +1,23 @@
+
+$background-color:gold;
+
+body{
+  margin: 0;
+  padding:0;
+  background:$background-color;
+  width:100vw;
+  height:100vh;
+}
+
+.red{
+  color:red;
+}
+
+.blue{
+  font-size: 20px;
+}
+
+.bg{
+  margin:0;
+  padding:0;
+}
